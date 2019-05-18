@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clicky-office-game/static/css/main.5f976f22.chunk.css",
+    "main.js": "/clicky-office-game/static/js/main.a28f6fca.chunk.js",
+    "main.js.map": "/clicky-office-game/static/js/main.a28f6fca.chunk.js.map",
+    "runtime~main.js": "/clicky-office-game/static/js/runtime~main.ea31a967.js",
+    "runtime~main.js.map": "/clicky-office-game/static/js/runtime~main.ea31a967.js.map",
+    "static/js/2.6408f43b.chunk.js": "/clicky-office-game/static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/clicky-office-game/static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/clicky-office-game/index.html",
+    "precache-manifest.e76fb5454410af20b288a82e05a5512a.js": "/clicky-office-game/precache-manifest.e76fb5454410af20b288a82e05a5512a.js",
+    "service-worker.js": "/clicky-office-game/service-worker.js",
+    "static/css/main.5f976f22.chunk.css.map": "/clicky-office-game/static/css/main.5f976f22.chunk.css.map"
+  }
+}
